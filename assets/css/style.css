@@ -119,14 +119,14 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 /* FADE OUT THE STICKY HEADER AFTR 5 SECS */
-#header.header-scrolled {
-  -moz-animation: cssAnimation 0s ease-in 5s forwards;
+/* #header.header-scrolled { */
+  /* -moz-animation: cssAnimation 0s ease-in 5s forwards; */
   /* Firefox */
-  -webkit-animation: cssAnimation 0s ease-in 5s forwards;
+  /* -webkit-animation: cssAnimation 0s ease-in 5s forwards; */
   /* Safari and Chrome */
-  -o-animation: cssAnimation 0s ease-in 5s forwards;
+  /* -o-animation: cssAnimation 0s ease-in 5s forwards; */
   /* Opera */
-  animation: cssAnimation 0s ease-in 5s forwards;
+  /* animation: cssAnimation 0s ease-in 5s forwards;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
@@ -145,9 +145,9 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .fadeinUp {
-  -webkit-animation: fadeInUp 500ms ease-in-out; /* Chrome, Safari, Opera */
+  -webkit-animation: fadeInUp 500ms ease-in-out;
   animation: fadeInUp 500ms ease-in-out;
-}
+} */
 /* END */
 #header.header-scrolled, #header.header-inner-pages {
   /* background: rgba(40, 58, 90, 0.9); */

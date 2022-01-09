@@ -1,9 +1,10 @@
 /**
-* Template Name: Arsha - v4.7.1
+* Template Name: Arsha - v4.3.0
 * Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
 (function() {
   "use strict";
 
@@ -22,7 +23,8 @@
   /**
    * Easy event listener function
    */
-  const on = (type, el, listener, all = false) => {
+  const on = (type, el, listener, all = false ) => {
+    
     let selectEl = select(el, all)
     if (selectEl) {
       if (all) {
@@ -253,22 +255,8 @@
       mirror: false
     });
   });
-  /**
-   * active class**/
-   $(document).ready(function () {
-    $('.active').click(function () {
-        $('.active').removeClass('active');
-        $(this).addClass('active');
-    });
-     
-     
-   });	
-  /**
-   * Scroll down for Number**/
-   
-  
-  // 
-})()
+ 
+
 
   
-  
+})()

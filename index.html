@@ -43,7 +43,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top ">
+  <header id="header" class="fixed-top sticky">
     <div class="container d-flex align-items-center" >
 
       <!-- <h1 class="logo me-auto"><a href="index.html">IVEOND</a></h1> -->
@@ -1070,67 +1070,14 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-  <script type='text/javascript' src='https://code.jquery.com/jquery-3.4.1.min.js?ver=3.4.1'></script> 
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script> 
+  <script type='text/javascript' src='https://code.jquery.com/jquery-2.1.0.min.js?ver=2.1.0'></script> 
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>  -->
+  <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>
+  
   <!-- <script src="jquery.counterup.min.js"></script>  -->
 <script>
 
-
-
-  (function( $ ) {   
-    $( document ).ready( function() { 
-  
-     
-    $('.count').each(function () { 
-        $(this).prop('Counter',0).animate({ 
-            Counter: $(this).text().replace(/\D/g, '') 
-        }, { 
-            duration: 3000, 
-            easing: 'swing', 
-            step: function (now) { 
-                $(this).text(Math.ceil(now)); 
-            } 
-        }); 
-    }); 
-  
-    $('.counter').counterUp({ 
-        delay: 10, 
-        time: 1000 
-    }); 
-     
-  /*     var waypoint = new Waypoint({ 
-    element: document.getElementByClassName('count'), 
-    handler: function(direction) { 
-     
-      $('.count').each(function () { 
-          $(this).prop('Counter',0).animate({ 
-              Counter: $(this).text().replace(/\D/g, '') 
-          }, { 
-              duration: 3000, 
-              easing: 'swing', 
-              step: function (now) { 
-                  $(this).text(Math.ceil(now)); 
-              } 
-          }); 
-      }); 
-     
-      $('.counter').counterUp({ 
-          delay: 10, 
-          time: 1000 
-      }); 
-     
-    } 
-      }) */ 
-  
-  
-    // add comma if number gets to thousands range 
-    function numberWithCommas(x) { 
-      return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); 
-    } 
-  
-    });  
-  
-  })( jQuery );
 
 </script>
 </script>
