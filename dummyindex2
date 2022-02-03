@@ -450,21 +450,21 @@
     
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 active">
         <div  class="icon-box" data-aos="fade-up" data-aos-delay="100">
-         
+          <div class="icon"><i class="fa fa-plus-square"></i></div>
           <h4 class="title"><a href="">New Age Technologies</a></h4>
           <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-          <!-- <div class="icon"><i class="fa fa-unlock-alt"></i></div> -->
+          <div class="icon"><i class="fa fa-unlock-alt"></i></div>
           <h4 class="title"><a href="">Security Services</a></h4>
           <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-          
+          <div class="icon"><i class="bx bxl-dribbble"></i></div>
           <h4 class="title"><a href="">Application Services</a></h4>
           <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
         </div>
@@ -472,7 +472,7 @@
 
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-         
+          <div class="icon"><i class="bx bx-file"></i></div>
           <h4 class="title"><a href="">Infrastructure Services</a></h4>
           <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
         </div>
@@ -480,28 +480,28 @@
 
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mt-3 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-         
+          <div class="icon"><i class="bx bx-tachometer"></i></div>
           <h4 class="title"><a href="">Managed Services</a></h4>
           <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mt-3 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-          
+          <div class="icon"><i class="bx bx-account-box"></i></div>
           <h4 class="title"><a href=""> Services</a></h4>
           <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mt-3 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-          
+          <div class="icon"><i class="bx bx-account-box"></i></div>
           <h4 class="title"><a href=""> BPO</a></h4>
           <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mt-3 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-          
+          <div class="icon"><i class="bx bx-account-box"></i></div>
           <h4 class="title"><a href=""> Staff Augmentation</a></h4>
           <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
         </div>
@@ -525,7 +525,7 @@
             <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="contactus.html">Call To Action</a>
+            <a class="btn-connect-more text-white" href="contactus.html">Let's Connect</a>
           </div>
         </div>
 
@@ -863,100 +863,85 @@
 <!-- ======= Footer ======= -->
 <footer id="footer">
 
-<div class="footer-newsletter">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-6">
-        <h4>Join Our Newsletter</h4>
-        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-        <form action="" method="post">
-          <input type="email" name="email"><input type="submit" value="Subscribe">
-        </form>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="footer-top">
-  <div class="container">
-    <div class="row">
-
-      <div class="col-lg-3 col-md-6 footer-contact">
-        <h3>IVEOND</h3>
-        <p>
-          8th Floor,Survey.No 115/1,<br>
-          Kapil Towers,ISB Rd,<br>
-          Financial District, Gachibowli,<br>
-          Nanakaramguda, Hyderabad, <br>
-          Telangana 500032 <br>
-          
-          <strong>Phone:</strong> +1 5589 55488 55<br>
-          <strong>Email:</strong> info@iveond.com<br>
-        </p>
-      </div>
-
-      <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Useful Links</h4>
-        <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="aboutus.html">About us</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="rpa.html">Services</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="contactus.html">Contact us</a></li>
-        </ul>
-      </div>
-
-      <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Our Services</h4>
-        <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="rpa.html">RPA</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="networkSecurity.html">security services</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="webDev.html">Application Development</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="dataCenterServices.html">Infrastructure Services</a></li>
-        </ul>
-      </div>
-
-      <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Our Social Networks</h4>
-        <p>Follow Our Social Media Platforms to get Latest Updates on Trending Technologies and more </p>
-        <div class="social-links mt-3">
-          <div class="wrapper">
-            <div class="icon facebook bx bxl-facebook">
-              <div class="tooltip">Facebook</div>
-              <span></i></span>
-            </div>
-            <div class="icon twitter bx bxl-twitter">
-              <div class="tooltip">Twitter</div>
-              <span></i></span>
-            </div>
-            <div class="icon instagram bx bxl-instagram">
-              <div class="tooltip">Instagram</div>
-              <span></i></span>
-            </div>
-            <!-- <div class="icon skype bx bxl-skype">
-              <div class="tooltip">Skype</div>
-              <span><i class="fab fa-skype"></i></span>
-            </div> -->
-            <div class="icon linkedin bx bxl-linkedin">
-              <div class="tooltip">linkedin</div>
-              <span></i></span>
-            </div>
-          </div>
-          
+  <div class="footer-newsletter">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6">
+          <h4>Join Our Newsletter</h4>
+          <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+          <form action="" method="post">
+            <input type="email" name="email"><input type="submit" value="Subscribe">
+          </form>
         </div>
       </div>
-
     </div>
   </div>
-</div>
 
-<div class="container footer-bottom clearfix">
-  <div class="copyright">
-    &copy; Copyright <strong><span>Iveond</span></strong>. All Rights Reserved
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6 footer-contact">
+          <h3>Arsha</h3>
+          <p>
+            A108 Adam Street <br>
+            New York, NY 535022<br>
+            United States <br><br>
+            <strong>Phone:</strong> +1 5589 55488 55<br>
+            <strong>Email:</strong> info@example.com<br>
+          </p>
+        </div>
+
+        <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Our Services</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Our Social Networks</h4>
+          <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+          <div class="social-links mt-3">
+            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          </div>
+        </div>
+
+      </div>
+    </div>
   </div>
-  <div class="credits">
-    <!-- Designed by <a href="#">Iveond</a> -->
+
+  <div class="container footer-bottom clearfix">
+    <div class="copyright">
+      &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
+    </div>
+    <div class="credits">
+      <!-- All the links in the footer should remain intact. -->
+      <!-- You can delete the links only if you purchased the pro version. -->
+      <!-- Licensing information: https://bootstrapmade.com/license/ -->
+      <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
+      Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+    </div>
   </div>
-</div>
 </footer><!-- End Footer -->
 
   <div id="preloader"></div>
